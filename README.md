@@ -1,5 +1,5 @@
 <div align="center">
-<img width="400" src="https://infinum.com/handbook/dist/assets/images/books/frontend/seo.jpg" alt="awesome">
+<img width="400" src="https://synapseteam.com/wp-content/uploads/2023/04/Frame-2232811-4.png" alt="awesome">
 <br>
 </div>
 
