@@ -3,8 +3,7 @@
 <br>
 </div>
 
-# Awesome frontend [![Awesome](https://user-images.githubusercontent.com/1534150/194293453-be2163cb-7351-4728-9766-847ae09c49cc.svg)](https://github.com/sindresorhus/awesome)
-😎  Curated list of awesome Dude frontend related resources 😎
+😎  This is my personal handbook — a collection of knowledge, tools, and tips I've gathered throughout my journey from zero to becoming a Senior Frontend Developer 😎
 
 ## CSS
 
