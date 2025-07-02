@@ -178,8 +178,3 @@ stock photos in one place (CC0)
 - [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12): With Amphetamine, you can effortlessly override your energy saver settings and keep your Mac awake.
 - [f.lux](https://justgetflux.com/): Is your computer keeping you up late? f.lux is free software that warms up your computer display at night, to match your indoor lighting.
 - [Moom](http://manytricks.com/moom/): Move and zoom windows
-
-# Contributors
-- Open PR with your links
-- Try to keep them organized and categorized
-- Use h2 for categories (ex: frameworks) and h3 for subcategories (ex: React, Angular...)
